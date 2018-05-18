@@ -9,7 +9,7 @@
 https://nodejs.org/en/
 
 # git clone
-git clone https://parthaskar@bitbucket.org/parthaskar/dashboard.git
+git clone https://github.com/Shamamhauba/dashboard.git
 
 # get into studash folder
 cd studash
